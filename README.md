@@ -1,31 +1,50 @@
 ![](docs/assets/logo-banner.png)
+> An awesome Project for Roleplay masters
 
-# roleplaymanager
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-> An electron-vue project
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 
-## Build Setup
+##  Overview
+
+The aim of this application is to simplify Game Master's life and purpose a more ergonomic interface to Roleplayer.
+
+#### Check out the documentation [here](https://www.gitbook.com/book/charlesdelorme/roleplaymanager/details).
+
+
+Things you'll find in this application...
+* An simple page with nothing for the moment
+
+### Getting Started
+
+#### Build the application
 
 ```bash
-# install dependencies
+https://github.com/CodeOfCinders/roleplaymanager.git
+cd roleplaymanager
 npm install
-
-# serve with hot reload at localhost:9080
-npm run dev
-
-# build electron app for production
 npm run build
+```
+And run the application of your OS, build app are in build/
 
-# lint all JS/Vue component files in `app/src`
-npm run lint
+#### Run app in dev mod with hot reload at localhost:9080
 
-# run webpack in production
-npm run pack
+```bash
+https://github.com/CodeOfCinders/roleplaymanager.git
+cd roleplaymanager
+npm install
+npm run dev
 ```
 
-More information can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/docs/npm_scripts.html).
+### Are you a Windows User?
 
----
+Make sure to check out [**A Note for Windows Users**](https://simulatedgreg.gitbooks.io/electron-vue/content/docs/getting_started.html#a-note-for-windows-users) to make sure you have all the necessary build tools needed for electron and other dependencies.
 
-This project was generated from [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about this project can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+### Future Plans
 
+Be up to date with new features and improvements by checking on the [GitHub Project](https://github.com/CodeOfCinders/roleplaymanager).
+
+### Contributing
+
+Wanting to submit a pull request? Make sure to read [this](docs/contributing.md) first.
+(Page under construction)
