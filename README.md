@@ -47,4 +47,3 @@ Be up to date with new features and improvements by checking on the [GitHub Proj
 ### Contributing
 
 Wanting to submit a pull request? Make sure to read [this](docs/contributing.md) first.
-(Page under construction)
