@@ -8,12 +8,12 @@
 
 <style scoped>
   a {
-    color: rgb(50, 174, 110);
+    color: rgb(186, 104, 200);
     text-decoration: none;
   }
 
   a:hover {
-    color: rgb(40, 56, 76);
+    color: rgb(171, 71, 188);
   }
 
   ul {
