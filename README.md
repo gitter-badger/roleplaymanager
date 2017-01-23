@@ -9,7 +9,7 @@
 
 The aim of this application is to simplify Game Master's life and purpose a more ergonomic interface to Roleplayer.
 
-#### Check out the documentation [here](https://www.gitbook.com/book/charlesdelorme/roleplaymanager/details).
+#### Check out the documentation [here](https://charlesdelorme.gitbooks.io/roleplaymanager/content/).
 
 
 Things you'll find in this application...
