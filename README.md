@@ -8,6 +8,8 @@
 
 ## Overview
 
+[![Join the chat at https://gitter.im/codeofcinders/roleplaymanager](https://badges.gitter.im/codeofcinders/roleplaymanager.svg)](https://gitter.im/codeofcinders/roleplaymanager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The aim of this application is to simplify Game Master's life and purpose a more ergonomic interface to Roleplayer.
 
 #### Check out the documentation [here](https://charlesdelorme.gitbooks.io/roleplaymanager/content/).
